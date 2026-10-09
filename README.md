@@ -1,2 +1,1 @@
-# tiennhieuuuuuu
-nhieu700
+# serverMDM_Sonduong
